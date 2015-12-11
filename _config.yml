@@ -1,7 +1,7 @@
 name: allusis
 favicon: null
-layout_spectrum: 0.5927799495402724
-typography_spectrum: 0.0216192367952317
+layout_spectrum: 1
+typography_spectrum: 0.74278
 title: Allusis
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9798652650788426
+  brandStrength: 1
   lightness: 0.9585414759349078
-  saturation: 0.42996565042994916
+  saturation: 0.375
   rhythmicContrast: 0.9657824405003339
 purpose: []
